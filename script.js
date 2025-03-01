@@ -9,3 +9,9 @@ function Submit() {
         document.getElementById("name-box").innerHTML = fullName;
     }
 }
+
+function Reset() {
+    document.getElementById("name-box").innerHTML = "";
+    document.getElementById("fname").value = "";
+    document.getElementById("lname").value = "";
+}

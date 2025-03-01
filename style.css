@@ -29,6 +29,15 @@ body {
     color: beige;
 }
 
+#form #BTN {
+    background-color: beige;
+    color: #535353;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    
+}
 #form #BTN:hover {
     background-color: #535353;
     color: beige;
